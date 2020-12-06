@@ -1,8 +1,10 @@
 {
   "compilerOptions": {
     "strict": true,
+    "lib": ["ES6", "DOM","ES5","ES2015","ES2016"],
   },
   "exclude": [
-    "node_modules"
+    "node_modules",
+    "*.js",
   ]
 }

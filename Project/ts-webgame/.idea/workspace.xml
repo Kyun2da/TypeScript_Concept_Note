@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab5f606f-22c1-4675-a495-f239220cd276" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/numberBaseball.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numberBaseball.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RSP.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsStone.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsStone.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rsc.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lecture.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture.js" beforeDir="false" afterPath="$PROJECT_DIR$/lecture.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numberBaseball.js" beforeDir="false" afterPath="$PROJECT_DIR$/numberBaseball.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numberBaseball.ts" beforeDir="false" afterPath="$PROJECT_DIR$/numberBaseball.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="tsconfig.json" />
+        <option value="HTML File" />
         <option value="TypeScript File" />
       </list>
     </option>
@@ -64,7 +66,13 @@
       <workItem from="1607083911259" duration="216000" />
       <workItem from="1607084177951" duration="718000" />
       <workItem from="1607084925827" duration="2027000" />
-      <workItem from="1607087162665" duration="869000" />
+      <workItem from="1607087162665" duration="2413000" />
+      <workItem from="1607144159774" duration="1086000" />
+      <workItem from="1607149173846" duration="51000" />
+      <workItem from="1607153580721" duration="403000" />
+      <workItem from="1607154024748" duration="3470000" />
+      <workItem from="1607235138828" duration="492000" />
+      <workItem from="1607241862247" duration="3282000" />
     </task>
     <servers />
   </component>
@@ -74,6 +82,8 @@
       <list>
         <option value="$PROJECT_DIR$/lecture.js" />
         <option value="$PROJECT_DIR$/numberBaseball.js" />
+        <option value="$PROJECT_DIR$/RSP.js" />
+        <option value="$PROJECT_DIR$/jsStone.js" />
       </list>
     </option>
   </component>

@@ -10,7 +10,6 @@ function chooseNumber() {
     array.push(chosen);
   }
 }
-
 chooseNumber();
 console.log(array);
 
