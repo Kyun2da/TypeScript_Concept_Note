@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target":"es5",
+    "lib": ["ES2016", "ES2015", "ES5", "DOM","ES2017","es2016.array.include"]
+  }
+}

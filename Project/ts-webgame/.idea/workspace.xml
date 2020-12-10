@@ -2,15 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab5f606f-22c1-4675-a495-f239220cd276" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RSP.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsStone.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsStone.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rsc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardMatch/cardMatch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardMatch/cardMatch.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardMatch/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tictactoe/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tictactoe/tictactoe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tictactoe/tictactoe.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tictactoe/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture.js" beforeDir="false" afterPath="$PROJECT_DIR$/lecture.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numberBaseball.js" beforeDir="false" afterPath="$PROJECT_DIR$/numberBaseball.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numberBaseball.ts" beforeDir="false" afterPath="$PROJECT_DIR$/numberBaseball.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSP.js" beforeDir="false" afterPath="$PROJECT_DIR$/RSP/RSP.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RSP.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RSP/RSP.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsStone.html" beforeDir="false" afterPath="$PROJECT_DIR$/jsStone/jsStone.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsStone.js" beforeDir="false" afterPath="$PROJECT_DIR$/jsStone/jsStone.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsStone.ts" beforeDir="false" afterPath="$PROJECT_DIR$/jsStone/jsStone.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture.html" beforeDir="false" afterPath="$PROJECT_DIR$/lecture/lecture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture.js" beforeDir="false" afterPath="$PROJECT_DIR$/lecture/lecture.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lecture/lecture.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numberBaseball.html" beforeDir="false" afterPath="$PROJECT_DIR$/numberBaseball/numberBaseball.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numberBaseball.js" beforeDir="false" afterPath="$PROJECT_DIR$/numberBaseball/numberBaseball.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numberBaseball.ts" beforeDir="false" afterPath="$PROJECT_DIR$/numberBaseball/numberBaseball.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/cardMatch/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/cardMatch/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rsc.html" beforeDir="false" afterPath="$PROJECT_DIR$/RSP/rsc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +35,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="tsconfig.json" />
-        <option value="HTML File" />
         <option value="TypeScript File" />
+        <option value="HTML File" />
+        <option value="tsconfig.json" />
       </list>
     </option>
   </component>
@@ -39,17 +53,27 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tictactoe" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Coding\TypeScript_Concept_Note\Project\ts-webgame\node_modules\prettier" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="ts.external.directory.path" value="C:\Coding\TypeScript_Concept_Note\Project\ts-webgame\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Coding\TypeScript_Concept_Note\Project\ts-webgame\RSP" />
+      <recent name="C:\Coding\TypeScript_Concept_Note\Project\ts-webgame\numberBaseball" />
+      <recent name="C:\Coding\TypeScript_Concept_Note\Project\ts-webgame\lecture" />
+      <recent name="C:\Coding\TypeScript_Concept_Note\Project\ts-webgame\jsStone" />
+      <recent name="C:\Coding\TypeScript_Concept_Note\Project\ts-webgame\cardMatch" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -73,6 +97,9 @@
       <workItem from="1607154024748" duration="3470000" />
       <workItem from="1607235138828" duration="492000" />
       <workItem from="1607241862247" duration="3282000" />
+      <workItem from="1607246726839" duration="466000" />
+      <workItem from="1607589834299" duration="1754000" />
+      <workItem from="1607591608929" duration="2023000" />
     </task>
     <servers />
   </component>
@@ -80,10 +107,7 @@
     <option name="version" value="3" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lecture.js" />
-        <option value="$PROJECT_DIR$/numberBaseball.js" />
-        <option value="$PROJECT_DIR$/RSP.js" />
-        <option value="$PROJECT_DIR$/jsStone.js" />
+        <option value="$PROJECT_DIR$/tictactoe/tictactoe.js" />
       </list>
     </option>
   </component>
@@ -98,6 +122,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

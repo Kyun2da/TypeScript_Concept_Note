@@ -1,17 +1,14 @@
 {
-  "name": "ts-webgame",
+  "name": "cardmatch",
   "version": "1.0.0",
-  "description": "제로초 강의 ts",
-  "main": "index.js",
+  "description": "",
+  "main": "cardMatch.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "허균",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "typescript": "^4.1.2"
-  },
-  "devDependencies": {
-    "prettier": "^2.2.1"
   }
 }
